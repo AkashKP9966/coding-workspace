@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main() //program to understand do while loop
 {
     int I=0,k=1,o,M,d;
     float L,s=0.2;
